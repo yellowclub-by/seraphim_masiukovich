@@ -1,1 +1,3 @@
-print("hello, world!")
+print("hello, world)")
+x = "seratech"
+print("hello world,", x)
